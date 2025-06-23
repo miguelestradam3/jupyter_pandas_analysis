@@ -1,3 +1,4 @@
-# jupyter_pandas_analysis
+# Pandas training
 
+#### Code on Jupyter notebook
 Coursera Guided Project
